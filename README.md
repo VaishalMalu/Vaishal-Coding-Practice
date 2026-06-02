@@ -85,18 +85,6 @@ python pattern1.py
 ```
 
 ---
-
-## 📈 Future Enhancements
-
-* Sorting Algorithms
-* Recursion Problems
-* Data Structures
-* Dynamic Programming
-* LeetCode Solutions
-* Interview Preparation Questions
-
----
-
 ## 👨‍💻 Author
 
 **Vaishal Malu**
